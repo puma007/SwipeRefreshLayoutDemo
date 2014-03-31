@@ -1,11 +1,11 @@
 SwipeRefreshLayoutDemo
 ======================
 
-SwipeRefreshLayout demo
+也许之前下拉刷新你可能会用到一些第三方开源库，如[PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh), [ActionBar-PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh)等，但现在已经有官方的组件了---[SwipeRefreshLayout](http://developer.android.com/reference/android/support/v4/widget/SwipeRefreshLayout.html)
 
 ## SwipeRefreshLayout
 
-Google在support v4的library更新一个下拉刷新组件，使用起来很方便，可以很方便的实现Google Now的刷新效果。
+SwipeRefreshLayout是Google在support v4 19.1版本的library更新的一个下拉刷新组件，使用起来很方便，可以很方便的实现Google Now的刷新效果。
 
 <img src="http://stormzhang.github.io/image/SwipeRefreshLayout.gif" />
 
